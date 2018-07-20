@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596673234130",
+    "firebase_url": "https://erp-mobile-app-ba5fb.firebaseio.com",
+    "project_id": "erp-mobile-app-ba5fb",
+    "storage_bucket": "erp-mobile-app-ba5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596673234130:android:cf5407a724b9a4c8",
+        "android_client_info": {
+          "package_name": "com.erp_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596673234130-jsabmck1ltnfmsc8koaj1src62r8cpjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erp_mobile_app",
+            "certificate_hash": "ac83b07ee7cb2b38f93c63ee70b4531f2d7c5af0"
+          }
+        },
+        {
+          "client_id": "596673234130-528pm4f0rnjmkqbfvdva7hrpjk3frhgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvjDaJ6JF_j8JQcTz1XqHvKWms0lLr4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596673234130-528pm4f0rnjmkqbfvdva7hrpjk3frhgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
